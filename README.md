@@ -2,7 +2,7 @@
 
 Detect and classify hallucinations in LLM outputs — deployed as a **Web UI + REST API**.
 
-**Live demo:** `https://hallucination-detector.onrender.com` *(after you deploy)*
+**Live demo:** `https://truthyai.onrender.com/` *(after you deploy)*
 
 ---
 
